@@ -1,2 +1,2 @@
 # Tiny_Python_Projects
- Just a little python game
+ Small python games and projects 
